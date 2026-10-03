@@ -1,0 +1,34 @@
+# Virtual environments
+northsea/
+venv/
+env/
+.venv/
+
+# Data files (large)
+*.csv
+*.nc
+*.xlsx
+*.xls
+
+# Media files
+*.mp4
+*.mov
+*.avi
+
+# OS files
+.DS_Store
+*.pyc
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+*.egg-info/
+dist/
+build/
