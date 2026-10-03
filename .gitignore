@@ -32,3 +32,6 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+# Raw TRACK output without extension
+tr_trs_*

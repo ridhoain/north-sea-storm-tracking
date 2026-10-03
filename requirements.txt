@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+cartopy
+xarray
+netCDF4
+cdsapi
+windrose
+cmaps
+jupyterlab
